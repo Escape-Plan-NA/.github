@@ -36,6 +36,22 @@ Escape Plan is a client-server game that lets two players connect, strategize, a
 - **Map Randomization**: The server shuffles the map and assigns characters for each game to keep it exciting.
 
 ---
+## ✨ Extra Features
+
+Our game is packed with awesome extras to enhance your gameplay experience! Here’s are some interesting ⭐
+
+- **🎮 Tutorial Mode**:  players can learn the game  with an easy-to-follow guide explaination.
+- **🔊 Sound Effects & 🎶 Background Music**: Every move and action is complemented by immersive sound effects.
+- **🏳️ Surrender Option**: play again! and try harder
+- **📜 Move Logs**: Keep track of every move and strategy used during the game, so you can review and learn from each play.
+- **🤖 Bot Mode**: Practice and hone your skills by playing for solo play!
+- **🖥️ Single-Device Mode**: Play with a friend on the same device for quick and easy gameplay without multiple devices.
+- **🏆 Scoreboard**: Track score(s) each player.
+- **🧑‍🎨 Avatar Customization**: Personalize your in-game character by yourselve.
+- **🌗 Dark & Light Modes**: change between dark and light screen settings for comfortable gameplay.
+- **💬 In-Game Chat**: Communicate with your friends in real-time to trick, strategize, or discuss the game as you play.
+
+---
 
 ## 🕹️ Game Mechanics
 
@@ -44,7 +60,7 @@ Escape Plan is a client-server game that lets two players connect, strategize, a
    - The server's IP and port are predefined in the source code.
 
 2. **Set your names and Character(s)**:
-   - Set your nickname at the start, and receive a friendly welcome message.
+   - Set your nickname at the start, and watching our speacial cutscence.
 
 3. **Gameplay**:
    - Players move to adjacent blocks only.
@@ -55,8 +71,7 @@ Escape Plan is a client-server game that lets two players connect, strategize, a
 4. **Win Scenarios**:
    - **Warder catches the Prisoner** to win.
    - **Prisoner reaches the tunnel** to win.
-   - The winner becomes the first player for the next game!
-
+   
 ---
 
 ## 🔧 Server Capabilities
@@ -71,9 +86,9 @@ Escape Plan is a client-server game that lets two players connect, strategize, a
 
 1. **Launch the Server**: Start the server on one computer, which also doubles as a client.
 2. **Connect the Client**: On a second computer, connect another client to join the game.
-3. **Set Your Nickname**: Choose your unique nickname to make your mark!
-4. **Play Smart & Fast**: Each turn allows only 10 seconds to move – stay focused!
-5. **Win and Play Again**: Each game updates the scoreboard, and the winner takes the first turn in the next round.
+3. **Set Your name**: Choose your unique nickname for someone to know you!
+4. **Play Smart & Fast**:  stay focused! think cafefully
+5. **Win and Play Again**: Each game updates the scoreboard, and then turn in the next round.
 
 ---
 
@@ -92,9 +107,9 @@ Escape Plan is a client-server game that lets two players connect, strategize, a
 
 ## 🏆 Contributing
 
-Got ideas to make Escape Plan even better? We welcome contributions! Check out our [Contribution Guidelines](./CONTRIBUTING.md) for more details.
+Got ideas to make Escape Plan even better? or any suggestion for us,  We welcome contributions! Check out our [Contribution Guidelines](./CONTRIBUTING.md) for more details.
 
 ---
 
 
-**Escape Plan** – Play your role, strategize your moves, and wish you win in our game krub/ka!
+**Escape Plan** – Play your role, strategize your moves, and wish you win in our game krub/ka!!!!
