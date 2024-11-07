@@ -1,8 +1,8 @@
-Random game
+ 🎲 RANDOM GAME 🎲
 
-Random game
+🎶🎵 **Game Start!** 🎵🎶
 
-Game start
+
 
 # 🏃💨 Escape Plan
 
