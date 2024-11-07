@@ -8,13 +8,13 @@ Game start
 
 **Welcome to Escape Plan** – a thrilling two-player game of wits and strategy! One player takes on the role of the **Warder**, while the other becomes the **Prisoner**. Can you escape to freedom or capture the fugitive? Only time (and strategy) will tell.
 
-🌍 **Hello!** 
-We're love Salad and We're Salad group
+🌍 **Hello World!** 
+We love Salad 🥗 and We're Salad Group
 
 ---
 
 ## 🚀 Project Overview
-Escape Plan is a client-server game that lets two players connect, strategize, and compete for the win. One computer hosts the **server** and a **game client**, while the other is a standalone **game client** that connects to the server. Each player must move their character wisely within the time limit and aim to outsmart their opponent. 
+Escape Plan is a client-server game that lets two players connect, strategize, and compete for the win. Developing by US Salad Group 🥗.  One computer hosts the **server** and a **game client**, while the other is a standalone **game client** that connects to the server. Each player must move their character wisely within the time limit and aim to outsmart their opponent. 
 
 ### Key Features
 
