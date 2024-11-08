@@ -71,7 +71,7 @@ Escape Plan is a client-server game that lets two players connect, strategize, a
 
 ## 🛠️ Installation & Setup
  **Clone the Repository**:
-   git clone https://github.com/YourUsername/EscapePlan.git
+   git clone https://github.com/
   
 
 ---
