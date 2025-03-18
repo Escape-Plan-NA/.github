@@ -18,6 +18,7 @@ We love Salad 🥗 and We're Salad Group
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shinjch) **Shin**
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peyluenkao) **Fei**
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pplucksupp) **Pluck**
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nine_nitis) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/nitis-sujaritvaranggoon-a3b2a8357/) **Nine**
 
 ---
 
